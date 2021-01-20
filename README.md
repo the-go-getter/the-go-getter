@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Vinay</h3>
+<p align="center">
+  <a href="https://www.cvinayreddy.com">Website</a> •
+  <a href="https://www.linkedin.com/in/c-vinay-reddy/">LinkedIn</a>
+</p>
 
 <!--
 **the-go-getter/the-go-getter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
