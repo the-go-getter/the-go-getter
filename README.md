@@ -1,13 +1,14 @@
 <h3 align="center">Welcome to Vinay's Github page</h3>
+<!--
 <p align="center">
-  <a href="https://www.cvinayreddy.com">Website</a> •
-  <a href="https://www.linkedin.com/in/c-vinay-reddy/">LinkedIn</a>
+  Insert webiste, linkedin and other social links here
 </p>
+-->
 <p align="center">
    :mortar_board: I'm a computer science graduate student at Northeastern University <br/>
    :mechanical_arm: :gear: I have an undergradute degree in Robotics and Industrial Automation <br/>
    :computer: I'm currently specializing in Software Engineering and Data Science <br/> 
-   :handshake: Connect with me on LinkedIn.
+   :handshake: Connect with me on <a href="https://www.linkedin.com/in/c-vinay-reddy/">LinkedIn</a>
 </p>
 <h3 align="center">Do check out some of my projects here!</h3>
 
